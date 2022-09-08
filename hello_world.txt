@@ -1,3 +1,0 @@
-Hello, World!
-New features added
-v0.2 changes
