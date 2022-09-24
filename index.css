@@ -1,6 +1,7 @@
 body {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: grey;
+    background-color: black;
+    font-family: 'Finlandica', sans-serif;
+    color: white;
 }
 
 h1 {
@@ -10,12 +11,11 @@ h1 {
 }
 
 p {
-    font-size: 18px;
+    font-size: 12px;
 }
 
 h3 {
     font-size: 20px;
-    margin-top: 200px;
 }
 
 ul {
@@ -27,4 +27,5 @@ ul {
     padding-bottom: 10px;
     border: 2px solid;
     border-color: brown;
+    color: black;
 }
