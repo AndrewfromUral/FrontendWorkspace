@@ -95,10 +95,6 @@ h4 {
     padding-bottom: 14px;
 }
 
-.Socials-text {
-    padding-bottom: 10px;
-}
-
 .Instagram {
     display: flex;
     padding-top: 10px;
@@ -125,6 +121,68 @@ h4 {
 }
 
 .Telegram-text {
+    display: block;
+    padding-left: 8px;
+}
+
+.Lang {
+    font-size: 8px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+}
+
+.Rus {
+    display: flex;
+    padding-top: 10px;
+}
+
+.Rus-text {
+    display: block;
+    padding-left: 8px;
+    padding-bottom: 10px;
+}
+
+.Eng {
+    display: flex;
+}
+
+.Eng-text {
+    display: block;
+    padding-left: 8px;
+}
+
+.Hobbies {
+    font-size: 8px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+}
+
+.Games {
+    display: flex;
+    padding-top: 10px;
+}
+
+.Games-text {
+    display: block;
+    padding-left: 8px;
+    padding-bottom: 10px;
+}
+
+.Pets {
+    display: flex;
+}
+
+.Pets-text {
+    display: block;
+    padding-left: 8px;
+    padding-bottom: 10px;
+}
+
+.Music {
+    display: flex;
+}
+
+.Music-text {
     display: block;
     padding-left: 8px;
 }
