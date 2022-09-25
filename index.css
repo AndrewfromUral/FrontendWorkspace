@@ -33,27 +33,104 @@ h1 {
     font-weight: bold;
 }
 
-p {
-    font-size: 12px;
-}
-
 h2 {
     font-size: 20px;
+}
+h4 {
+    font-size: 16px;
 }
 
 .LeftColumn {
     background-color: grey;
     padding-left: 24px;
+    padding-right: 20px;
     padding-top: 24px;
+    padding-bottom: 20px;
+    width: 176px;
+}
+
+.CV {
+    font-size: 10px;
+    width: 137px;
+    padding-top: 14px;
 }
 
 .Contacts {
-    font-size: 15px;
-    padding-top: 10px;
+    font-size: 7px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+}
+
+.Mail {
+    display: flex;
     padding-bottom: 10px;
 }
+.Mail-text {
+    display: block;
+    padding-left: 8px;
+}
+
+.Site {
+    display: flex;
+    padding-bottom: 10px;
+}
+
+.Site-text {
+    display: block;
+    padding-left: 8px;
+}
+
+.Phone {
+    display: flex;
+}
+
+.Phone-text {
+    display: block;
+    padding-left: 8px;
+}
+
+.Socials {
+    font-size: 8px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+}
+
+.Socials-text {
+    padding-bottom: 10px;
+}
+
+.Instagram {
+    display: flex;
+    padding-top: 10px;
+}
+
+.Instagram-text {
+    display: block;
+    padding-left: 8px;
+    padding-bottom: 10px;
+}
+
+.HH {
+    display: flex;
+}
+
+.HH-text {
+    display: block;
+    padding-left: 8px;
+    padding-bottom: 10px;
+}
+
+.Telegram {
+    display: flex;
+}
+
+.Telegram-text {
+    display: block;
+    padding-left: 8px;
+}
+
 .RightColumn {
-    display:block;
+    display: block;
 }
 .Tools {
     display: inline-flex
