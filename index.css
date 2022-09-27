@@ -154,32 +154,22 @@ h4 {
 .Hobbies {
     font-size: 8px;
     padding-top: 14px;
-    padding-bottom: 14px;
 }
 
 .Games {
     display: flex;
     padding-top: 10px;
+    padding-bottom: 8px;
 }
 
 .Games-text {
     display: block;
     padding-left: 8px;
-    padding-bottom: 10px;
-}
-
-.Pets {
-    display: flex;
-}
-
-.Pets-text {
-    display: block;
-    padding-left: 8px;
-    padding-bottom: 10px;
 }
 
 .Music {
     display: flex;
+    padding-bottom: 8px;
 }
 
 .Music-text {
@@ -187,9 +177,59 @@ h4 {
     padding-left: 8px;
 }
 
-.RightColumn {
-    display: block;
+.Pets {
+    display: flex;
+    padding-bottom: 14px;
 }
-.Tools {
-    display: inline-flex
+
+.Pets-text {
+    display: block;
+    padding-left: 8px;
+}
+
+.Details {
+    font-size: 8px;
+}
+
+.Mother {
+    font-size: 7px;
+    padding-top: 6px;
+}
+
+.Father {
+    font-size: 7px;
+    padding-top: 6px;
+}
+
+.DOB {
+    font-size: 7px;
+    padding-top: 6px;
+}
+
+.RightColumn {
+    width: 414px;
+    height: 842px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+
+.MainH {
+    padding-left: 7px;
+    padding-top: 58px;
+    font-size: 20px;
+}
+
+.MainText {
+    padding-top: 50px;
+    display: inline-flex;
+}
+
+.Divider {
+    padding-right: 16px;
+}
+
+.ToolsText {
+    display: block;
+    width: 342px;
 }
