@@ -18,8 +18,7 @@ ol, ul {
 }
 
 img {
-  max-width: 100%;
-  height: auto;
+    height: auto;
 }
 body {
     background-color: black;
@@ -209,7 +208,6 @@ h4 {
 .RightColumn {
     width: 414px;
     height: 842px;
-    padding-left: 20px;
     padding-right: 20px;
     padding-bottom: 20px;
 }
@@ -226,10 +224,51 @@ h4 {
 }
 
 .Divider {
-    padding-right: 16px;
+}
+
+.Tools {
+    display: block;
+    padding-bottom: 16px;
 }
 
 .ToolsText {
-    display: block;
+    display: flex;
     width: 342px;
+    font-size: 7px;
+    color: black;
+    height: 64px;
+}
+
+.HTML5 {
+    background-color: white;
+    width: 82.5px;
+    border: 2px solid black;
+    border-radius: 6px 0px 0px 6px;
+    text-align: center;
+}
+
+.CSS3 {
+    background-color: white;
+    width: 82.5px;
+    border: 2px solid black;
+    text-align: center
+}
+
+.VSCODE {
+    background-color: white;
+    width: 82.5px;
+    border: 2px solid black;
+    text-align: center
+}
+
+.Github {
+    background-color: white;
+    width: 82.5px;
+    border: 2px solid black;
+    border-radius: 0px 6px 6px 0px;
+    text-align: center
+}
+
+.Projects {
+    padding-top: 22px;
 }
