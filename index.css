@@ -220,10 +220,7 @@ h4 {
 
 .MainText {
     padding-top: 50px;
-    display: inline-flex;
-}
-
-.Divider {
+    display: flex;
 }
 
 .Tools {
@@ -236,7 +233,6 @@ h4 {
     width: 342px;
     font-size: 7px;
     color: black;
-    height: 64px;
 }
 
 .HTML5 {
@@ -245,20 +241,26 @@ h4 {
     border: 2px solid black;
     border-radius: 6px 0px 0px 6px;
     text-align: center;
+    padding-top: 3px;
 }
 
 .CSS3 {
     background-color: white;
     width: 82.5px;
     border: 2px solid black;
-    text-align: center
+    text-align: center;
+}
+
+.VSCODEIMG {
+    padding-bottom: 5px;
 }
 
 .VSCODE {
     background-color: white;
     width: 82.5px;
     border: 2px solid black;
-    text-align: center
+    text-align: center;
+    padding-top: 10px;
 }
 
 .Github {
@@ -266,7 +268,8 @@ h4 {
     width: 82.5px;
     border: 2px solid black;
     border-radius: 0px 6px 6px 0px;
-    text-align: center
+    text-align: center;
+    padding-top: 7px;
 }
 
 .Projects {
